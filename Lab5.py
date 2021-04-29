@@ -1,5 +1,5 @@
 import random
-'''
+
 print("1.Faça um programa que leia nome e média de um aluno guardando também a situação em um dicionário. No final, mostre o conteúdo da estrutura na tela.")
 
 nome = input("Digite o seu nome")
@@ -114,7 +114,7 @@ for x in paciente:
         leves += [x[0]]
 
 print(f"As pessoas mais leves são: {leves}, com {menor} Kg")
-'''
+
 print("5. Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os \
     em uma lista única que mantenha separados os valores pares e ímpares. \
         No final, mostre os valores pares e ímpares em ordem crescente.")
